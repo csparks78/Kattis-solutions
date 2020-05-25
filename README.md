@@ -1,10 +1,13 @@
 # Kattis-solutions
 My solutions to Kattis problems
 
-cold-puter.cpp
-hissing.cpp
-oddities.cpp
-onechicken.cpp
-pot.cpp
-quadrant.py
-tarifa.cpp
+### CPP
+- cold-puter.cpp
+- hissing.cpp
+- oddities.cpp
+- onechicken.cpp
+- pot.cpp
+- tarifa.cpp
+
+### PY
+- quadrant.py
