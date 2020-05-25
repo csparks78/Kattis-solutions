@@ -8,6 +8,8 @@ My solutions to Kattis problems
 - onechicken.cpp
 - pot.cpp
 - tarifa.cpp
+- + more
 
 ### PY
 - quadrant.py
+- + more
