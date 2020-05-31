@@ -1,3 +1,6 @@
+// Kattis - grassseed
+// Cliff Sparks
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
