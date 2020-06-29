@@ -1,19 +1,47 @@
 // Cliff Sparks
 // Kattis nodup
 
-#include<iostream>
-#include<vector>
+#include <bits/stdc++.h>
 using namespace std;
-int main() {
-   vector<string> animal_vec;
-   for(int i = 0; i<animal_vec.size(); i++) {
-      cin >> animal_vec[i];
+
+string words(string s)
+{
+   istringstream check(s);
+   string token;
+
+   unordered_map<string, int> set;
+
+   while (getline(check, token, ' '))
+   {
+      if (set.find(token) != set.end())
+         set[token] += 1; // word exists
+      else
+         // insert new word to set
+         set.insert(make_pair(token, 1));
    }
-   // animal_vec.push_back("Elephant");
-   // animal_vec.push_back("Lion");
-   // animal_vec.push_back("Deer");
-   // animal_vec.push_back("Tiger");
-   for(int i = 0; i<animal_vec.size(); i++) {
-      cout << animal_vec[i] << endl;
+
+   istringstream check2(s);
+   while (getline(check2, token, ' '))
+   {
+      int count = set[token];
+      if (count > 1)
+      {
+         return token;
+      }
    }
+
+   return "no dup";
+}
+
+// driver program
+int main()
+{
+   string s;
+   getline(cin, s);
+   string word = words(s);
+   if (word != "no dup")
+      cout << "no" << endl;
+   else
+      cout << "yes";
+   return 0;
 }
