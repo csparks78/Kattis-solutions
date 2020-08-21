@@ -9,6 +9,7 @@ My solutions to Kattis problems
 - pot.cpp
 - tarifa.cpp
 - houselawn(wip)
+- a_new_alphabet
 - + more
 
 ### PY
