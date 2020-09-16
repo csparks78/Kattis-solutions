@@ -2,14 +2,26 @@
 My solutions to Kattis problems
 
 ### CPP
-- a_new_alphabet
-- cold-puter.cpp
-- hissing.cpp
+- anewalphabet
+- autori
+- babelfish
+- baconeggsandspam
+- batterup
+- bijele
+- cd
+- cold
+- fallingapart
+- fizzbuzz
+- grassseed
+- hissingmicrophone
 - houselawn(wip)
-- oddities.cpp
-- onechicken.cpp
-- pot.cpp
-- tarifa.cpp
+- nodeup
+- oddities
+- onechicken
+- pot
+- spavanac
+- tarifa
+- tutorial
 - + more
 
 ### PY
