@@ -1,16 +1,16 @@
+# grassseed
+# Cliff Sparks
 
-
-#total = float(input())
-#temp = float(input())
+# RUNTIME Error
 
 cost = float(input())
 lawns = int(input())
-
-counter = 0
-while counter < lawns:
-    length = float(input())
-    width = float(input())
-    total *= temp
-total *= cost
-print total   
+temp = int(0)
+total = int(0)
+for i in range(lawns): 
+    length = float(input())    
+    width = float(input())    
+    total += length * width
+grand = total * cost
+print("{:.7f}".format(grand))
 
