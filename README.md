@@ -22,8 +22,11 @@ My solutions to Kattis problems
 - spavanac
 - tarifa
 - tutorial
-- + more
 
 ### PY
-- quadrant.py
+- carrots
+- grassseed (runtime error)
+- quadrant
+- transitwoes
+
 - + more
