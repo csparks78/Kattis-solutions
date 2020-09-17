@@ -25,6 +25,7 @@ My solutions to Kattis problems
 
 ### PY
 - carrots
+- freefood(wip)
 - grassseed (runtime error)
 - quadrant
 - transitwoes
