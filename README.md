@@ -25,7 +25,9 @@ My solutions to Kattis problems
 
 ### PY
 - carrots
+- chanukah(wip)
 - freefood(wip)
 - grassseed (runtime error)
+- lastfactorialdigit
 - quadrant
 - transitwoes
