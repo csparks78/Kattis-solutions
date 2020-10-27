@@ -19,15 +19,19 @@ My solutions to Kattis problems
 - oddities
 - onechicken
 - pot
+- simpleaddition
 - spavanac
 - tarifa
 - tutorial
 
 ### PY
+- cold
+- babelfish
 - carrots
 - chanukah(wip)
 - freefood(wip)
 - grassseed (runtime error)
 - lastfactorialdigit
 - quadrant
+- simpleaddition
 - transitwoes (wip)
