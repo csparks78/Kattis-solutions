@@ -32,6 +32,7 @@ My solutions to Kattis problems
 - freefood(wip)
 - grassseed (runtime error)
 - lastfactorialdigit
+- oddmanout
 - quadrant
 - simpleaddition
 - transitwoes (wip)
