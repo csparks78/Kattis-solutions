@@ -1,6 +1,11 @@
-#Cliff Sparks
-#Kattis 
+# Cliff Sparks
+# Kattis 
+# simpleaddition
+
+def add(a, b):
+    print(a+b)
+    
 
 a = int(input())
 b = int(input())
-print(a+b)
+add(a,b)
