@@ -2,37 +2,41 @@
 My solutions to Kattis problems
 
 ### CPP
-- anewalphabet
-- autori
-- babelfish
-- baconeggsandspam
-- batterup
-- bijele
-- cd
-- cold
-- fallingapart
-- fizzbuzz
-- grassseed
-- hissingmicrophone
-- houselawn(wip)
-- nodeup
-- oddities
-- onechicken
-- pot
-- simpleaddition
-- spavanac
-- tarifa
-- tutorial
+- A New Alphabet
+- Autori
+- Babelfish
+- Bacon Eggs And Spam
+- Batterup
+- Bijele
+- CD
+- Cold
+- Falling Apart
+- Fizzbuzz
+- Grass Seed
+- Hissing Microphone
+- Houselawn(wip)
+- Nodeup
+- Oddities
+- Onechicken
+- Pot
+- Simple Addition
+- Spavanac
+- Tarifa
+- Tutorial
 
 ### PY
-- cold
-- babelfish
-- carrots
-- chanukah(wip)
-- freefood(wip)
-- grassseed (runtime error)
-- lastfactorialdigit
-- oddmanout
-- quadrant
-- simpleaddition
-- transitwoes (wip)
+- Cold
+- 4thought
+- ABC
+- Babelfish
+- Bubble Tea
+- Carrots
+- Chanukah(wip)
+- Free Food(wip)
+- Grass Seed (runtime error)
+- Last Factorial Digit
+- Odd Man Out
+- Pig Latin
+- Quadrant
+- Simple Addition
+- Transitwoes (wip)
