@@ -33,7 +33,6 @@ string words(string s)
    return "no dup";
 }
 
-// driver program
 int main()
 {
    string s;
